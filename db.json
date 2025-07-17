@@ -1,0 +1,30 @@
+{
+    "users":[
+        {
+          "id":"user_id-1",
+          "name":"friend",
+          "email":"friend@gmail.com",
+          "password":"password123"
+        }
+    ],
+    "dealers":[
+        {
+            "dealer_id":"dealer_id1",
+            "name":"ramu",
+            "email":"ramu@gmail.com",
+            "password":"password123",
+            "companyname":"wipro",
+            "mobile":39876688987,
+            "isActive":true,
+            "payment":[]
+        }
+    ],
+    "products":[
+        {
+            "prodid":"1234",
+            "prod_title":"sona masuri",
+            "price":120,
+            "quantity":25
+        }
+ ]
+}
